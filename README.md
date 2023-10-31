@@ -17,5 +17,6 @@ Return: The transcribed RNA string of t
 
 Sample Dataset
 GATGGAACTTGACTACGTAAATT
+
 Sample Output
 GAUGGAACUUGACUACGUAAAUU
